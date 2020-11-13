@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.widget.Toast
 import com.example.uts.helper.Constant
 import com.example.uts.helper.PrefHelper
-//import kotlinx.android.synthetic.main.activity_kalkuator.*
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
